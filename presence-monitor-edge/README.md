@@ -43,4 +43,4 @@ If you are more interested in stable releases of our add-ons:
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 <!-- [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg -->
 [releases-shield]: https://img.shields.io/github/release/Limych/addon-presence-monitor.svg
-[releases]: https://img.shields.io/github/tag-date/Limych/addon-presence-monitor?label=release
+[releases]: https://img.shields.io/badge/version-db39bae-blue.svg
