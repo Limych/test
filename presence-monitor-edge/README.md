@@ -39,8 +39,8 @@ If you are more interested in stable releases of our add-ons:
 <https://github.com/Limych/hassio-addons>
 
 
-[docs]: https://github.com/Limych/addon-presence-monitor/blob/87edf8d219872f35a79f09795c313742efd8a310/README.md
+[docs]: https://github.com/Limych/addon-presence-monitor/blob/3d0aa0b3bcd15a9ec6ba16b2ddebb9661d9a6929/README.md
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-yellow.svg
 <!-- [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg -->
-[release-shield]: https://img.shields.io/badge/version-87edf8d-blue.svg
-[release]: https://github.com/Limych/addon-presence-monitor/commit/87edf8d219872f35a79f09795c313742efd8a310
+[release-shield]: https://img.shields.io/badge/version-3d0aa0b-blue.svg
+[release]: https://github.com/Limych/addon-presence-monitor/tree/3d0aa0b3bcd15a9ec6ba16b2ddebb9661d9a6929
